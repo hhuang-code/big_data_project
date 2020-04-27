@@ -1,0 +1,20 @@
+1) Group name:
+Effectiveness of Government Measures on Virus Spread
+
+2) Project participants:
+Hao Huang hh1811, Yixiu Chen yc3691, Jasper Duan zd793
+
+3) Project description:
+The goal of this project aims at analyzing the relationship between government measures and the spread of the virus (confirmed and/or mortality cases) over time.
+
+4) List of datasets (together with a link to where they can be found), a description of each dataset:
+row # in spreadsheet: description and download link
+53: Crowd-sourced COVID-19 Dataset Tracking Involuntary Government Restrictions (TIGR)	https://github.com/rexdouglass/TIGR
+58: #COVID19 GOVERNMENT MEASURES DATASET	https://www.acaps.org/covid19-government-measures-dataset
+45: Novel Corona Virus 2019 Dataset (Daily)	https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+75: Daily COVID 19 Dataset	https://www.kaggle.com/imdevskp/corona-virus-report/data
+76: COVID-19 GOVERNMENT RESPONSE TRACKER	https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
+
+5) Data Cleaning and Integration: describe the steps you performed to clean and integrate the dataserts, and discuss the challenges you faced.
+Include a link to your github repo.
+Challenges and steps can be found along with the code in the repo: 
