@@ -1,20 +1,34 @@
 1) Group name:
 Effectiveness of Government Measures on Virus Spread
 
+
 2) Project participants:
 Hao Huang hh1811, Yixiu Chen yc3691, Jasper Duan zd793
+
 
 3) Project description:
 The goal of this project aims at analyzing the relationship between government measures and the spread of the virus (confirmed and/or mortality cases) over time.
 
+
 4) List of datasets (together with a link to where they can be found), a description of each dataset:
-row # in spreadsheet: description and download link
-53: Crowd-sourced COVID-19 Dataset Tracking Involuntary Government Restrictions (TIGR)	https://github.com/rexdouglass/TIGR
-58: #COVID19 GOVERNMENT MEASURES DATASET	https://www.acaps.org/covid19-government-measures-dataset
-45: Novel Corona Virus 2019 Dataset (Daily)	https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
-75: Daily COVID 19 Dataset	https://www.kaggle.com/imdevskp/corona-virus-report/data
-76: COVID-19 GOVERNMENT RESPONSE TRACKER	https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
+row # in spreadsheet | name | download link | description
+
+76 | COVID-19 GOVERNMENT RESPONSE TRACKER | https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
+Description: This dataset contains information on several different common policy responses (13 types of responses) governments have taken,
+scores the stringency of such measures, and aggregates these scores into a common Stringency Index. It organizes in time-series format.
+Detailed descriptions of different responses can be found: https://www.bsg.ox.ac.uk/sites/default/files/2020-04/BSG-WP-2020-031-v4.0_0.pdf
+Detailed description of calculation of Strigency Index can be found: https://www.bsg.ox.ac.uk/sites/default/files/Calculation%20and%20presentation%20of%20the%20Stringency%20Index.pdf
+
+103 | Tested Cases Data on COVID-19 by Our World in Data | https://github.com/owid/covid-19-data/tree/master/public/data
+Description: This dataset contains cumulative/daily tested cases for different countries and organizes in a time-series format.
+For some countires, it contains different statistics under different report standards.
+Detailed description of standards can be found: https://ourworldindata.org/coronavirus#our-checklist-for-covid-19-testing-data
+
+104 | Confirmed Cases Data on Novel Coronavirus 2019 | https://datahub.io/core/covid-19/r/0.html
+Description: This dataset contains cumulative confirmed/recovered/deaths cases for different countries and organizes in a time-series format.
+For some countires, it contains such statistics for different privince/state in the country.
+
 
 5) Data Cleaning and Integration: describe the steps you performed to clean and integrate the dataserts, and discuss the challenges you faced.
 Include a link to your github repo.
-Challenges and steps can be found along with the code in the repo: 
+Challenges and steps can be found along with the code in the repo:
