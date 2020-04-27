@@ -31,4 +31,4 @@ For some countires, it contains such statistics for different privince/state in 
 
 5) Data Cleaning and Integration: describe the steps you performed to clean and integrate the dataserts, and discuss the challenges you faced.
 Include a link to your github repo.
-Challenges and steps can be found along with the code in the repo:
+Challenges and steps can be found along with the code in the repo: https://github.com/huanghao-code/big_data_project
