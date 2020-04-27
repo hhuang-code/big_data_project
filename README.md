@@ -1,4 +1,4 @@
-# NYU Big Data project - The effectiveness of government measures on virus spread
+# The effectiveness of government measures on virus spread
 
 ##### Created by [Huang Hao](https://github.com/huanghao-code) hh1811, [Yixiu Chen](https://github.com/yixiuchen26) yc3691, [Jasper Duan](https://github.com/Jasper-Duan) zd793
 
@@ -20,5 +20,5 @@ Bigger questions we hope to answer through our analysis include:
 1. How much (quantitation) of a reduction in spread and mortality is there if a government took measure X or implemented the measure at time Y instead?
 2. What the virus spread will be in the future (prediction) by taking consideration of the currently implemented government measures?
 
-## List of datasets 
+## Data Sources
 [datasets-used.csv](./part2/datasets-used.csv)
